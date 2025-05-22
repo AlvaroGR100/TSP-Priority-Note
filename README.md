@@ -6,7 +6,7 @@ This repository contains a bilingual intellectual priority note for a determinis
 While technical details are withheld for strategic reasons, this document serves as a timestamped public record of the idea. Algorithm-X is based on a combination of deterministic geometric heuristics, each addressing different instance types in a complementary manner.
 
 📄 PDF: `Priority-Note`  
-📅 Date: May 2025
+📅 Date: May 22, 2025
 
 ## Español
 
@@ -15,4 +15,4 @@ Este repositorio contiene una nota de prioridad intelectual sobre un algoritmo c
 Aunque no se revelan los detalles técnicos por razones estratégicas, el documento actúa como prueba pública con marca de tiempo verificable.
 
 📄 PDF: `Priority-Note`  
-📅 Fecha: Mayo 2025
+📅 Fecha: 22 de Mayo, 2025
